@@ -1,0 +1,113 @@
+# Neomior — Generative Engine Optimization Map
+
+> An Israeli-targeted online store specializing in nutritional supplements and beauty products. The brand caters to health-conscious and beauty-oriented Israeli consumers, combining wellness and personal care in a single shopping destination.
+
+---
+
+## Pages
+
+### בית
+https://neomior-4c549ae6.zappy5.app
+חנות תוספי תזונה ומוצרי ביוטי מובילה בישראל. גלו פופטידים, ליפוזומלי ומוצרים טבעוניים לנשים. הצטרפו למסע הבריאות שלכם עוד היום!
+
+### אודות
+https://neomior-4c549ae6.zappy5.app/about
+Neomior נולדה מתוך תשוקה לשדרג את איכות החיים בישראל. אנו משלבים תוספי תזונה חדשניים ומוצרי ביוטי איכותיים כדי להעניק לכם את הטוב ביותר לגוף ולנפש.
+
+### מדריך בריאות
+https://neomior-4c549ae6.zappy5.app/wellness-guide
+מדריך הבריאות המקיף שלכם! טיפים, מאמרים והמלצות על תוספי תזונה, פופטידים, וליפוזומלי שיעזרו לכם להרגיש במיטבכם בכל יום. התחילו לקרוא עכשיו.
+
+### חוות דעת
+https://neomior-4c549ae6.zappy5.app/reviews
+קראו חוות דעת אמיתיות על תוספי התזונה ומוצרי הביוטי שלנו. גלו מדוע ישראלים בוחרים ב-Neomior לשיפור הבריאות והטיפוח האישי. שתפו גם אתם!
+
+### צור קשר
+https://neomior-4c549ae6.zappy5.app/contact
+יש לכם שאלות על תוספי תזונה, פופטידים או מוצרי ביוטי? צרו קשר עם צוות Neomior עוד היום ונשמח להדריך אתכם בדרך לבריאות ויופי מיטביים.
+
+### Products
+https://neomior-4c549ae6.zappy5.app/products
+המוצרים שלנו - Neomior
+
+### Cart
+https://neomior-4c549ae6.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://neomior-4c549ae6.zappy5.app/checkout
+תשלום
+
+### Login
+https://neomior-4c549ae6.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://neomior-4c549ae6.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://neomior-4c549ae6.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://neomior-4c549ae6.zappy5.app/product/:slug
+פרטי המוצר - Neomior
+
+### Category
+https://neomior-4c549ae6.zappy5.app/category/:slug
+מוצרים - Neomior
+
+### תודה שפניתם אלינו | Neomior
+https://neomior-4c549ae6.zappy5.app/thank-you
+Neomior - תודה שפניתם אלינו | Neomior
+
+## Legal & Policy
+
+### Privacy Policy
+https://neomior-4c549ae6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://neomior-4c549ae6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://neomior-4c549ae6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Neomior
+An Israeli-targeted online store specializing in nutritional supplements and beauty products. The brand caters to health-conscious and beauty-oriented Israeli consumers, combining wellness and personal care in a single shopping destination.
+
+## Services/Products
+- תוספי תזונה
+- מוצרי ביוטי
+
+## Target Audience
+- חובבי בריאות ישראלים
+- משפיעניות יופי
+- קהילת טבעונים
+- נשים
+
+## Industry
+Health & Beauty E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://neomior-4c549ae6.zappy5.app/sitemap.xml
+- Robots: https://neomior-4c549ae6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://neomior-4c549ae6.zappy5.app/llms-full.txt
+- Products (JSON): https://neomior-4c549ae6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://neomior-4c549ae6.zappy5.app/product-feed.xml
