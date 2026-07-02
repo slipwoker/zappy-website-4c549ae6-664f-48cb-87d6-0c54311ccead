@@ -2,13 +2,13 @@
 
 An Israeli-targeted online store specializing in nutritional supplements and beauty products. The brand caters to health-conscious and beauty-oriented Israeli consumers, combining wellness and personal care in a single shopping destination.
 
-Source: https://neomior-4c549ae6.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו עולם של בריאות ויופי — Neomior
 
-URL: https://neomior-4c549ae6.zappy5.app
+URL: https://example.com
 Description: חנות תוספי תזונה ומוצרי ביוטי מובילה בישראל. גלו פופטידים, ליפוזומלי ומוצרים טבעוניים לנשים. הצטרפו למסע הבריאות שלכם עוד היום!
 
 גלו עולם של בריאות ויופי — Neomior
@@ -543,7 +543,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## הכירו את החזון שלנו לבריאות מושלמת — Neomior
 
-URL: https://neomior-4c549ae6.zappy5.app/about
+URL: https://example.com/about
 Description: Neomior נולדה מתוך תשוקה לשדרג את איכות החיים בישראל. אנו משלבים תוספי תזונה חדשניים ומוצרי ביוטי איכותיים כדי להעניק לכם את הטוב ביותר לגוף ולנפש.
 
 הכירו את החזון שלנו לבריאות מושלמת — Neomior
@@ -921,7 +921,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## שדרגו את אורח החיים הבריא שלכם — Neomior
 
-URL: https://neomior-4c549ae6.zappy5.app/wellness-guide
+URL: https://example.com/wellness-guide
 Description: מדריך הבריאות המקיף שלכם! טיפים, מאמרים והמלצות על תוספי תזונה, פופטידים, וליפוזומלי שיעזרו לכם להרגיש במיטבכם בכל יום. התחילו לקרוא עכשיו.
 
 שדרגו את אורח החיים הבריא שלכם — Neomior
@@ -1335,7 +1335,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## הלקוחות שלנו משתפים בחוויה — Neomior
 
-URL: https://neomior-4c549ae6.zappy5.app/reviews
+URL: https://example.com/reviews
 Description: קראו חוות דעת אמיתיות על תוספי התזונה ומוצרי הביוטי שלנו. גלו מדוע ישראלים בוחרים ב-Neomior לשיפור הבריאות והטיפוח האישי. שתפו גם אתם!
 
 הלקוחות שלנו משתפים בחוויה — Neomior
@@ -1788,7 +1788,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## דברו איתנו והתחילו את השינוי — Neomior
 
-URL: https://neomior-4c549ae6.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם שאלות על תוספי תזונה, פופטידים או מוצרי ביוטי? צרו קשר עם צוות Neomior עוד היום ונשמח להדריך אתכם בדרך לבריאות ויופי מיטביים.
 
 דברו איתנו והתחילו את השינוי — Neomior
@@ -2198,7 +2198,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## מוצרים
 
-URL: https://neomior-4c549ae6.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Neomior
 
 מוצרים - Neomior
@@ -2457,7 +2457,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## עגלת קניות
 
-URL: https://neomior-4c549ae6.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Neomior
@@ -2692,7 +2692,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## תשלום
 
-URL: https://neomior-4c549ae6.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Neomior
@@ -3113,7 +3113,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## התחברות
 
-URL: https://neomior-4c549ae6.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Neomior
@@ -3355,7 +3355,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## החשבון שלי
 
-URL: https://neomior-4c549ae6.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Neomior
@@ -3752,7 +3752,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## ההזמנה התקבלה!
 
-URL: https://neomior-4c549ae6.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Neomior
@@ -4011,7 +4011,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## מדיניות החזרות
 
-URL: https://neomior-4c549ae6.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Neomior
@@ -4299,7 +4299,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## פרטי המוצר
 
-URL: https://neomior-4c549ae6.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Neomior
 
 פרטי המוצר - Neomior
@@ -4536,7 +4536,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## מוצרים
 
-URL: https://neomior-4c549ae6.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Neomior
 
 מוצרים - Neomior
@@ -4797,7 +4797,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## מדיניות פרטיות
 
-URL: https://neomior-4c549ae6.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5076,7 +5076,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## הצהרת נגישות
 
-URL: https://neomior-4c549ae6.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5364,7 +5364,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## תנאי שימוש
 
-URL: https://neomior-4c549ae6.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5671,7 +5671,7 @@ Neomior מביאה אליכם את הטוב שבטבע – מוצרי בריאו
 
 ## תודה שפניתם אלינו | Neomior
 
-URL: https://neomior-4c549ae6.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Neomior - תודה שפניתם אלינו | Neomior
 
 תודה שפניתם אלינו | Neomior
